@@ -18,5 +18,19 @@ Beyond technical prowess, I've led teams through the labyrinth of requirement ga
 
 With an unwavering commitment to excellence and an insatiable thirst for innovation, I stand poised to elevate your organization to unprecedented heights in the realm of Business Intelligence. Let's embark on this transformative journey together, where data isn't just information—it's the fuel that propels us towards greatness.
 
+🛠️ Key Skills
+Data Mastery: SAP BW- 7.x, Native HANA, DWC/Data Sphere
+Analytics Expertise: SAP BEx, SAP BI, Lumira, SAC, MS-SSRS & Power BI
+Database Wizardry: SAP HANA, MS-SQL server
+ETL Proficiency: SDI, SLT, BODS 4.x, Data Intelligence, MSS-SSIS
+Coding Wizard: SQL, ABAP, HTML, CSS, JavaScript
+GUI Wizard: SAP GUI, SAP Web IDE, HANA Studio
+Efficient Scheduling: Control-M, CA -WLA
+
+🎓 Certifications
+• SAP Certified Application Associate - BW4HANA 2.x
+• SAP Certified Application Associate - SAP Analytics Cloud
+• SAP Certified Associate - SAP Activate Project Manager
+
 ## How to Reach Me
 - 📧 Email: vinay_b@outlook.com
